@@ -1,0 +1,17 @@
+body {
+    background-image: url("Great_Wave_off_Kanagawa2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    color: white;
+    background-color: darkslateblue;
+}
+
+h2{
+    color: white;
+    background-color: darkslateblue;
+    font-style: italic;
+    
+}
