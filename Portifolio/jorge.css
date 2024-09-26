@@ -1,0 +1,26 @@
+body{
+    background-image: url(../../Downloads/vqavovoqavn.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+    background-color: rgb(255, 138, 84);
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+    background-color: rgb(255, 138, 84);
+    border-radius: 15%;
+    
+}
+table{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+    background-color:  rgb(255, 138, 84);
+    font-size: large;
+}
+img{
+    border-radius: 5% ;
+}
